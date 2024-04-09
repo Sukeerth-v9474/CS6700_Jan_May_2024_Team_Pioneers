@@ -1,0 +1,11 @@
+This Directory consists of :-
+1) Notebook files for the implementation of Dueling DQN architecture with both Double DQN and normal DQN architecture.
+	PA2_Acrobot :- Implementation of file depicted above for Acrobot Environment.
+	PA2_CartPole :- Implementation of file depicted above for Cart Pole Environment. 
+
+2) Notebook files to iterate over different hyper parameters and save numpy array of return during training as .npy file.
+	HyperParam_Acrobot :- Implementation of file depicted above for Acrobot Environment.
+	HyperParam_CartPole :- Implementation of file depicted above for Cart Pole Environment.
+
+3) Notebook file to find out best hyper parameter with least regret for different batch size.
+	Hyperparameter_Analysis
